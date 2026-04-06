@@ -12,3 +12,6 @@ Driver's location is on '/build/interfaces/hardware/gpio'. The package I created
 
 ### App
 With the new 'vendor', I made a simple app in **Jetpack Compose** & **Kotlin** on which I can control the LED by pressing a button. The button is executing a command line in ADB Shell to run the service (the service is a background operation running the API) if ON and to disconnect the LED if OFF. Script can be seen [here](/FirstApp/app/src/main/java/com/aospi/firstapp/MainActivity.kt).
+
+### Proof
+[My license](https://credsverse.com/credentials/0200761d-d1e8-43df-bd76-8f01a4a7f9ae)
